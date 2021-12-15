@@ -49,3 +49,5 @@ Data Analysis:
       <a href="https://github.com/moedaaboul/Internet_News_and_Consumer_Engagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=internet-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="internet-news"></a>
   <a href="https://github.com/moedaaboul/ukranian-coffee-shops"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=ukranian-coffee-shops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ukranian-coffee-shops"></a>
 </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=moedaaboul&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="moedaaboul" />
