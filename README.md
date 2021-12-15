@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 * Data visualization
 * Maps
 
-📫 How to reach me:
+🔗 &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-daaboul-38470046/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
