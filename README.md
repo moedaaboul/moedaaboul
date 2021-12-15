@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Muhammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🔭 I'm a full stack web developer and mainly write code with HTML, CSS, JavaScript and bash, and occasionally I do R and PostgreSQL. 
+- I'm a full stack web developer and mainly write code with HTML, CSS, JavaScript and bash, and occasionally I do R and PostgreSQL. 
 
-🌱 I’m currently learning Node.js and React.
+- I’m currently learning Node.js and React.
 
-⚡ Here is some of the stuff I enjoy doing:
+- Here is some of the stuff I enjoy doing:
 * Web developement
 * Put stuff in production
 * Work with data and APIs
