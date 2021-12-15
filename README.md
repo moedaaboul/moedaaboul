@@ -46,6 +46,6 @@ JavaScript based projects:
 Data Analysis:
 
 <p align="left">
-  <a href="https://github.com/moedaaboul/Ukranian-Coffee-Shops"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=Quiz-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Ukranian-Coffee-Shops"></a>
-    <a href="https://github.com/moedaaboul/Internet_News_and_Consumer_Engagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=Internet_News_and_Consumer_Engagement&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Internet_News_and_Consumer_Engagement"></a>
+      <a href="https://github.com/moedaaboul/Internet_News_and_Consumer_Engagement"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=internet-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="internet-news"></a>
+  <a href="https://github.com/moedaaboul/ukranian-coffee-shops"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=ukranian-coffee-shops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ukranian-coffee-shops"></a>
 </p>
