@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### I'm a Fullstack Developer based in ☀️ Manchester, 🇬🇧.
 
 - 🏢 Studying fullstack web development at the **University of Manchester**
-- 👯 I’m looking to collaborate on HTML, CSS and JavaScript projects
+- 👯 I’m looking to collaborate on **HTML, CSS and JavaScript** projects
 - 📚 I'm currently learning: **Node, Express and React**
 - ⚡ Interests: data visualization, AWS, wellbeing, maps, chess
 - 💬 Ask me about data analysis using R.
