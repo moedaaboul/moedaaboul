@@ -37,10 +37,10 @@ Team projects and collaborations:
 JavaScript based projects:
 
 <p align="left">
-  <a href="https://github.com/moedaaboul/Quiz-App"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=Quiz-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="quiz-app"></a>
+  <a href="https://github.com/moedaaboul/quiz-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=quiz-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="quiz-app"></a>
     <a href="https://github.com/moedaaboul/weather-dashboard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=weather-dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-dashboard"></a>
-    <a href="https://github.com/moedaaboul/Work-Day-Scheduler"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=Work-Day-Scheduler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jobs-finder"></a>
-      <a href="https://github.com/moedaaboul/Password-Generator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=Password-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jobs-finder"></a>
+    <a href="https://github.com/moedaaboul/work-day-scheduler"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=work-day-scheduler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jobs-finder"></a>
+      <a href="https://github.com/moedaaboul/password-generator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=password-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jobs-finder"></a>
 </p>
 
 Data Analysis:
