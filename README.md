@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## Main projects
 Team projects and collaborations:
 <p align="left">
-  <a href="https://github.com/moedaaboul/jobs-finder"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=legogram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="legogram"></a>
+  <a href="https://github.com/moedaaboul/legogram"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=legogram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="legogram"></a>
 </p>
 <p align="left">
   <a href="https://github.com/moedaaboul/jobs-finder"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=jobs-finder&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jobs-finder"></a>
