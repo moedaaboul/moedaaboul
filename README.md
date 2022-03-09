@@ -54,10 +54,10 @@ Team projects and collaborations:
 Node.js projects:
 
 <p align="left">
-  <a href="https://github.com/moedaaboul/quiz-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=tech-blog&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tech-blog"></a>
-      <a href="https://github.com/moedaaboul/work-day-scheduler"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=team-profile-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="team-profile-generator"></a>
-    <a href="https://github.com/moedaaboul/weather-dashboard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=employee-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="employee-tracker"></a>
-      <a href="https://github.com/moedaaboul/password-generator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-generator"></a>
+  <a href="https://github.com/moedaaboul/tech-blog"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=tech-blog&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tech-blog"></a>
+      <a href="https://github.com/moedaaboul/team-profile-generator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=team-profile-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="team-profile-generator"></a>
+    <a href="https://github.com/moedaaboul/employee-tracker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=employee-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="employee-tracker"></a>
+      <a href="https://github.com/moedaaboul/readme-generator"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=moedaaboul&repo=readme-generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-generator"></a>
 </p>
 
 JavaScript based projects:
