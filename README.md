@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moedaaboul&theme=buefy)
 
-<a  style="display:inline-block;margin-right:8px;" href="https://www.linkedin.com/in/m-d-027032228/">
+<a  style="display:inline-block;margin-right:8px;" href="https://www.linkedin.com/in/muhammad-d-027032228/">
   <img alt="Muhammad Daaboul's LinkedIn" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a  style="display:inline-block;margin-right:8px;" href="https://twitter.com/mdaaboul3">
