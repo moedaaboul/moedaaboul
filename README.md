@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🏢 Recently graduated from a Full Stack Web Development Certificate programme from the **University of Manchester**
 - 📚 I'm currently studying **C# and TypeScript**
-- ⚡ Interests: data visualization, AWS, wellbeing, maps, chess
+- ⚡ Interests: data analysis and visualization, AWS, wellbeing, Codewars and chess
 - 💬 Ask me about anything, I am happy to help;
 - 💼 Any freelance work? Do reach, email :)
 
